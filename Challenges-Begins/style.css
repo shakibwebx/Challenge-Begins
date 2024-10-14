@@ -30,8 +30,16 @@ body {
     padding: 16px 34px 16px 34px;
     border-radius: 8px;
     margin: 20px 10px;
+    
 
 }
+
+.button{
+    color: white;
+    text-decoration: none;
+}
+
+
 
 .web-dev-bg {
     background-color: aliceblue;
